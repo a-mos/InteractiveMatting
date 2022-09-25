@@ -4,7 +4,6 @@ Interactive Matting proof of concept
 <p float="left">
   <img src="./compositions/woman-morning-bathrobe.jpg" height="250" />
   <img src="./compositions/retriever.jpg" height="250" /> 
-  <img src="./compositions/puppy.jpg" height="250" />
 </p>
 
 Matting using only user clicks without trimaps
