@@ -18,8 +18,8 @@ The model is based on [Deeplabv3](https://pytorch.org/hub/pytorch_vision_deeplab
 Download pretrained model from [gdrive](https://drive.google.com/file/d/1MiTQ1RG7AClm-4VqASXnYTeOImgOTxGm/view?usp=share_link)
 
 ## Run
-For testing install all requirments and run sequentially all cells in ```My Test.ipynb```  
-For training install all requirements, setup datasets paths and run ```cd training; python train.py```  
+For testing: install all requirements and run sequentially all cells in ```My Test.ipynb```  
+For training: install all requirements, setup datasets paths and run ```cd training; python train.py```  
 According to Adobe license please contact Brian Price (bprice @adobe.com) for the [Composition 1K](https://sites.google.com/view/deepimagematting?pli=1) dataset.  
 
 ## References
