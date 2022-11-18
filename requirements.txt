@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+scikit-image
+torchsummary
+tqdm
+seborn
+bezier
+pycocotools
+networkx
+scipy
